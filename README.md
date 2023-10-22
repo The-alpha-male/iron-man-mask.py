@@ -1,3 +1,3 @@
 # iron-man-mask.py
 
-Fun ironman mask using turtle.
+Ironman face mask using turtle.
